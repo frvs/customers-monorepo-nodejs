@@ -1,0 +1,9 @@
+{
+  "name": "customers-monorepo-nodejs",
+  "version": "1.0.0",
+  "repository": "https://github.com/frvs/customers-monorepo-nodejs.git",
+  "author": "Lucas Frois <frois.dev@gmail.com>",
+  "license": "MIT", 
+  "private": "true", 
+  "workspaces": ["client", "server"]
+}
